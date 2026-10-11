@@ -36,11 +36,18 @@ Para convertir una proporción en porcentaje, multiplícala por 100. Para conver
 
 **Cambio porcentual:**
 
-\[
-\text{cambio porcentual}=\frac{\text{nuevo}-\text{antiguo}}{\text{antiguo}}\times100\%.
-\]
+$$
+\text{Cambio porcentual}
+=
+\frac{\text{valor nuevo}-\text{valor antiguo}}
+{\text{valor antiguo}}\times 100\%
+$$
 
-Si una cantidad pasa de 80 a 92, el cambio es `(92 - 80) / 80 × 100 % = 15 %`.
+Si una cantidad pasa de 80 a 92, el cambio porcentual es:
+
+$$
+\frac{92-80}{80}\times100\%=15\%
+$$
 
 Una subida del 20 % seguida de una bajada del 20 % no devuelve al valor inicial: 100 sube a 120 y después baja a 96.
 
