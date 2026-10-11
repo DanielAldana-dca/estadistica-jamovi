@@ -1,0 +1,12 @@
+csv
+id,grupo,edad,genero,puntuacion_pre,puntuacion_post
+1,control,25,H,45,47
+2,control,32,M,52,50
+3,control,28,H,48,49
+4,control,41,M,55,53
+5,control,35,H,50,51
+6,experimental,27,H,44,58
+7,experimental,30,M,49,62
+8,experimental,33,H,47,60
+9,experimental,29,M,51,64
+10,experimental,38,H,46,59
