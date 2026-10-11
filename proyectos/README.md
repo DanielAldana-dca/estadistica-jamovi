@@ -1,52 +1,13 @@
 # Proyectos prácticos
 
-## Proyecto 1: Descriptivo completo
+Los proyectos integran varias lecciones. Lee el enunciado, escribe tus preguntas y planifica el análisis antes de abrir jamovi. Intenta resolver cada proyecto sin mirar soluciones ajenas.
 
-**Objetivo:** análisis descriptivo de dataset público.
+## Proyectos
+1. [Exploración y limpieza](01_exploracion_limpieza.md)
+2. [Probabilidad y simulación](02_probabilidad_simulacion.md)
+3. [Comparación pre/post](03_comparacion_pre_post.md)
+4. [Correlación y regresión](04_correlacion_regresion.md)
+5. [Proyecto final](05_proyecto_final.md)
 
-**Entregables:**
-- Descriptivos de todas las variables
-- Histogramas, boxplots
-- Detección de atípicos
-- Interpretación
-
-## Proyecto 2: Comparación de grupos
-
-**Objetivo:** t-test o ANOVA.
-
-**Entregables:**
-- Supuestos
-- Prueba principal
-- Post hoc
-- Tamaños del efecto
-- Reporte APA
-
-## Proyecto 3: Modelo predictivo
-
-**Objetivo:** regresión múltiple.
-
-**Entregables:**
-- Exploratorio
-- Selección predictores
-- Diagnósticos
-- Interpretación
-- Reporte
-
-## Proyecto 4: Validación escala
-
-**Objetivo:** análisis factorial y fiabilidad.
-
-**Entregables:**
-- EFA con rotación
-- Scree plot
-- Alfa Cronbach
-- Interpretación
-
-## Proyecto 5: Bayesiano
-
-**Objetivo:** repetir análisis con enfoque bayesiano.
-
-**Entregables:**
-- Factor Bayes
-- Comparación con p-valor
-- Ventajas y limitaciones
+## Entrega mínima
+Pregunta de investigación, diccionario de variables, decisiones de limpieza justificadas, análisis reproducible en `.omv`, tablas o gráficos necesarios, conclusión en lenguaje sencillo, tamaño del efecto e incertidumbre cuando proceda, limitaciones y reflexión sobre lo que harías de otra forma.

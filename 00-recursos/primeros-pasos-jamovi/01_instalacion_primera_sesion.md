@@ -11,7 +11,7 @@ No es necesario instalar módulos comunitarios para comenzar. Utiliza primero lo
 
 ## Paso 2. Abrir el conjunto de práctica
 
-Abre `00-recursos/datasets-ampliacion/datos_estudiantes_sinteticos.csv`. Puedes utilizar el menú de archivo para abrirlo o arrastrar el CSV a la ventana, según la plataforma.
+Abre `00-recursos/datasets/datos_estudiantes_sinteticos.csv`. Puedes utilizar el menú de archivo para abrirlo o arrastrar el CSV a la ventana, según la plataforma.
 
 Cuando se abra, comprueba que:
 

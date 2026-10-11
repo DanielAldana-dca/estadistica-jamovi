@@ -19,7 +19,7 @@ git diff --check
 Después, revisa el contenido con tu editor y comprueba los enlaces relativos. Si todo está correcto:
 
 ```bash
-git add PAQUETE_LEEME.md INSTRUCCIONES_INTEGRACION.md PROPUESTA_INTEGRACION_README.md INDICE_CONTENIDOS.md MANIFIESTO_DATOS.json PLAN_ESTUDIO_12_SEMANAS.md 00-recursos 01-fundamentos 02-descriptiva 03-manejo-datos 04-probabilidad 05-inferencia 06-modelos 07-avanzado plantillas proyectos evaluacion-ampliacion
+git add PAQUETE_LEEME.md INSTRUCCIONES_INTEGRACION.md PROPUESTA_INTEGRACION_README.md INDICE_CONTENIDOS.md MANIFIESTO_DATOS.json PLAN_ESTUDIO_12_SEMANAS.md 00-recursos 01-fundamentos 02-descriptiva 03-manejo-datos 04-probabilidad 05-inferencia 06-modelos 07-avanzado plantillas proyectos evaluacion
 
 git commit -m "Amplía ruta de aprendizaje de estadística y jamovi"
 ```

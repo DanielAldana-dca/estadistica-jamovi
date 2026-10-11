@@ -19,7 +19,7 @@ Antes de calcular estadísticas, verifica que los datos representan lo que crees
 
 ## Practicar con errores intencionales
 
-Abre `00-recursos/datasets-ampliacion/datos_limpieza_intencional.csv`. El archivo contiene valores que requieren revisión: celdas vacías, etiquetas inconsistentes, horas negativas y notas fuera de rango. Están ahí deliberadamente.
+Abre `00-recursos/datasets/datos_limpieza_intencional.csv`. El archivo contiene valores que requieren revisión: celdas vacías, etiquetas inconsistentes, horas negativas y notas fuera de rango. Están ahí deliberadamente.
 
 ### Procedimiento sugerido
 

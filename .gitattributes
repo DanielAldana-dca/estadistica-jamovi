@@ -1,0 +1,9 @@
+# Normalizar finales de línea en el repositorio
+* text=auto
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.py text eol=lf
+*.R text eol=lf

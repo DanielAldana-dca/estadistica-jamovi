@@ -6,7 +6,7 @@
 
 ## Archivo
 
-`00-recursos/datasets-ampliacion/datos_estudiantes_sinteticos.csv`
+`00-recursos/datasets/datos_estudiantes_sinteticos.csv`
 
 ## Parte A. Tabla de descriptivos
 

@@ -67,4 +67,4 @@ B = mayor que 4 = `{5,6}`, así que `P(B)=2/6=1/3`.
 3. Explica por qué “llueve” y “no llueve” son sucesos mutuamente excluyentes para una misma ubicación e intervalo definido, pero no uses eso como ejemplo de independencia.
 4. Una moneda se lanzó 20 veces y salió cara 13 veces. Calcula la frecuencia relativa de cara. ¿Es obligatorio que la probabilidad de cara sea 13/20?
 
-Las soluciones se encuentran en `evaluacion-ampliacion/soluciones_ejercicios.md`.
+Las soluciones se encuentran en `evaluacion/soluciones_ejercicios.md`.

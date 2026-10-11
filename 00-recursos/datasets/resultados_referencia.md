@@ -49,7 +49,7 @@ Antes de interpretar una tabla, revisa porcentajes por fila/columna y frecuencia
 - `horas_estudio_semana`: 2 celdas vacías; valor mínimo numérico = -2; valor máximo numérico = 28.
 - `nota_final`: 2 celdas vacías; valor mínimo numérico = -8; valor máximo numérico = 120.
 - `asistencia_pct`: 2 celdas vacías; valor mínimo numérico = 57.3; valor máximo numérico = 140.
-- Categorías encontradas en `modalidad` sin normalizar: `Online , PRESENCIAL, on-line, online, presencial`. Decide y documenta qué etiquetas representan la misma categoría. Los valores inválidos no tienen una solución automática sin conocer la fuente; consulta `03-manejo-datos/ampliacion/01_limpieza_calidad_datos.md`.
+- Categorías encontradas en `modalidad` sin normalizar: `Online , PRESENCIAL, on-line, online, presencial`. Decide y documenta qué etiquetas representan la misma categoría. Los valores inválidos no tienen una solución automática sin conocer la fuente; consulta `03-manejo-datos/01_limpieza_calidad_datos.md`.
 
 ## Cómo comparar con jamovi
 
