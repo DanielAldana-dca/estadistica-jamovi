@@ -19,9 +19,9 @@ Una asociación puede deberse a causalidad directa, causalidad inversa, variable
 
 Modelo:
 
-\[
+$$
 \hat{y}=b_0+b_1x.
-\]
+$$
 
 - `b0`: intercepto, predicción del modelo cuando `x=0`; puede no tener interpretación útil si 0 queda fuera del rango observado.
 - `b1`: cambio medio predicho en `y` por unidad adicional de `x` en el modelo lineal.

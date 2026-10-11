@@ -23,17 +23,17 @@ La suma es 1.
 
 ## Esperanza matemática
 
-\[
+$$
 E(X)=\sum_x xP(X=x).
-\]
+$$
 
 En el ejemplo: `E(X)=0(1/4)+1(1/2)+2(1/4)=1`. Esto no significa que cada repetición produzca exactamente una cara; significa que el promedio esperado a largo plazo por repetición es 1 cara bajo el modelo.
 
 ## Varianza y desviación estándar
 
-\[
+$$
 Var(X)=E[(X-E(X))^2]=E(X^2)-[E(X)]^2.
-\]
+$$
 
 La desviación estándar de la variable aleatoria es `√Var(X)`. La varianza mide dispersión al cuadrado; la desviación estándar usa las unidades originales.
 

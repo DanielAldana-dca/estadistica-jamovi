@@ -4,9 +4,9 @@
 
 `P(A | B)` se lee “probabilidad de A dado B”: la probabilidad de A dentro de las situaciones en las que B ha ocurrido.
 
-\[
+$$
 P(A\mid B)=\frac{P(A\cap B)}{P(B)},\qquad P(B)>0.
-\]
+$$
 
 La condición cambia el espacio de referencia. En una tabla de doble entrada, divide el número de casos que cumplen A y B entre el total de casos que cumplen B.
 
@@ -14,9 +14,9 @@ La condición cambia el espacio de referencia. En una tabla de doble entrada, di
 
 De la definición:
 
-\[
+$$
 P(A\cap B)=P(A\mid B)P(B).
-\]
+$$
 
 Si A y B son independientes, entonces `P(A | B) = P(A)` cuando está definida y `P(A ∩ B)=P(A)P(B)`.
 
@@ -30,15 +30,15 @@ Una tabla de contingencia es útil cuando hay dos variables categóricas. Distin
 
 Si `P(B)>0`:
 
-\[
+$$
 P(A\mid B)=\frac{P(B\mid A)P(A)}{P(B)}.
-\]
+$$
 
 Bayes actualiza la probabilidad de A después de observar B. En problemas con dos clases excluyentes:
 
-\[
+$$
 P(B)=P(B\mid A)P(A)+P(B\mid A^c)P(A^c).
-\]
+$$
 
 ## Ejemplo de prueba de detección ficticia
 

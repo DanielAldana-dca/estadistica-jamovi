@@ -14,9 +14,9 @@ El espacio muestral es el conjunto de resultados posibles; un suceso es un subco
 
 Si todos los resultados elementales son igualmente probables:
 
-\[
+$$
 P(A)=\frac{\text{resultados favorables}}{\text{resultados posibles}}.
-\]
+$$
 
 Para un dado justo, `P(par) = 3/6 = 1/2`. La fórmula no se aplica sin comprobar que los resultados elementales son equiprobables.
 
@@ -37,9 +37,9 @@ La unión `A ∪ B` significa A o B o ambos; la intersección `A ∩ B` signific
 
 Si A y B pueden ocurrir al mismo tiempo:
 
-\[
+$$
 P(A\cup B)=P(A)+P(B)-P(A\cap B).
-\]
+$$
 
 Se resta la intersección porque al sumar `P(A)` y `P(B)` se cuenta dos veces la zona que pertenece a ambos.
 

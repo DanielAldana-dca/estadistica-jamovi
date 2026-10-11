@@ -4,9 +4,9 @@
 
 La puntuación z expresa la distancia a una media en unidades de desviación estándar:
 
-\[
+$$
 z=\frac{x-\mu}{\sigma}.
-\]
+$$
 
 Si un valor tiene z = 2, está dos desviaciones estándar por encima de la media de referencia. Un z negativo está por debajo. En la práctica, la media y desviación utilizadas pueden ser estimaciones muestrales; deja claro el contexto.
 

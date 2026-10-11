@@ -51,9 +51,9 @@ Una misma letra puede tener diferentes significados en áreas distintas. Lee sie
 
 La varianza muestral se calcula con:
 
-\[
+$$
 s^2=\frac{\sum_{i=1}^{n}(x_i-\bar{x})^2}{n-1}.
-\]
+$$
 
 Pasos:
 

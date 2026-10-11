@@ -24,9 +24,9 @@ Ejemplo: ordenar 5 libros distintos da `5! = 120` órdenes.
 
 Si importa el orden y no se repiten elementos:
 
-\[
+$$
 P(n,r)=\frac{n!}{(n-r)!}.
-\]
+$$
 
 Ejemplo: asignar oro, plata y bronce entre 10 personas: `P(10,3) = 10×9×8 = 720`.
 
@@ -36,9 +36,9 @@ Ejemplo: asignar oro, plata y bronce entre 10 personas: `P(10,3) = 10×9×8 = 72
 
 Si importa seleccionar un grupo pero **no** el orden:
 
-\[
+$$
 \binom{n}{r}=\frac{n!}{r!(n-r)!}.
-\]
+$$
 
 Ejemplo: elegir 3 representantes de 10 personas: `C(10,3)=10!/(3!7!)=120`. Cada grupo se contaría `3!` veces en las permutaciones porque sus miembros pueden ordenarse de `3!` maneras.
 

@@ -16,9 +16,9 @@ Una interpretación frecuentista precisa no es “hay 95 % de probabilidad de qu
 
 Para una media con el procedimiento t usual:
 
-\[
+$$
 \bar{x}\pm t^*\frac{s}{\sqrt n}.
-\]
+$$
 
 `t*` depende del nivel de confianza y de los grados de libertad. Este intervalo requiere que el procedimiento sea apropiado para el diseño y la distribución; con muestras pequeñas, asimetría extrema o dependencias, hay que revisar las condiciones.
 

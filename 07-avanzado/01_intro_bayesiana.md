@@ -6,9 +6,9 @@ Este documento es una orientación inicial. Para hacer cálculos o comparar mode
 
 La inferencia bayesiana combina una distribución previa (prior) sobre parámetros, un modelo de verosimilitud para los datos y los datos observados para obtener una distribución posterior:
 
-\[
+$$
 \text{posterior} \propto \text{verosimilitud}\times\text{prior}.
-\]
+$$
 
 La distribución posterior representa la incertidumbre sobre parámetros bajo el modelo y la prior elegidos.
 

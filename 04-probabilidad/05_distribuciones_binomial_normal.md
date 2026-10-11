@@ -11,9 +11,9 @@ Una variable `X` sigue una binomial `Bin(n,p)` si cuenta éxitos en `n` ensayos 
 
 Su función de probabilidad es:
 
-\[
+$$
 P(X=k)=\binom{n}{k}p^k(1-p)^{n-k},\quad k=0,1,\ldots,n.
-\]
+$$
 
 Esperanza: `E(X)=np`. Varianza: `Var(X)=np(1-p)`.
 

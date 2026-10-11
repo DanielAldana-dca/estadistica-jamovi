@@ -1,6 +1,6 @@
-# Inventario del curso
+# Inventario de archivos
 
-Esta lista permite comprobar qué incluye la distribución. Las rutas son relativas a la raíz del repositorio.
+Este inventario describe los 84 archivos incluidos en el repositorio integrado.
 
 - `.gitattributes`
 - `00-recursos/COMO_ESTUDIAR_SIN_INTERNET.md`
@@ -64,10 +64,10 @@ Esta lista permite comprobar qué incluye la distribución. Las rutas son relati
 - `07-avanzado/03_estadistica_bayesiana_aplicada.md`
 - `07-avanzado/README.md`
 - `CHEATSHEET.md`
-- `INSTRUCCIONES_INTEGRACION.md`
-- `INSTRUCCIONES_REEMPLAZO.md`
+- `INDICE_CONTENIDOS.md`
 - `MANIFIESTO_DATOS.json`
 - `PLAN_ESTUDIO.md`
+- `PLAN_ESTUDIO_12_SEMANAS.md`
 - `README.md`
 - `evaluacion/autoevaluacion_por_bloques.md`
 - `evaluacion/diagnostico_inicial.md`
