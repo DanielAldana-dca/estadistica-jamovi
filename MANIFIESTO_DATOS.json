@@ -1,0 +1,38 @@
+[
+  {
+    "archivo": "datos_binomial_sinteticos.csv",
+    "filas": 250,
+    "bytes": 3954,
+    "sha256": "79f9e9b1602d110faeb910560e4b7f80fe07590adaf0b7a8fd0b38e76f2ac659"
+  },
+  {
+    "archivo": "datos_categoricos_sinteticos.csv",
+    "filas": 120,
+    "bytes": 3792,
+    "sha256": "62f4dbc27c12995bd3f4c598847ddb99c866b73f2792e5dcd961383f9339f125"
+  },
+  {
+    "archivo": "datos_dados_sinteticos.csv",
+    "filas": 600,
+    "bytes": 4115,
+    "sha256": "3dddff88d71f2db491ebf8a81951b8cd8d3dc28d198e32049b29c606f3db7425"
+  },
+  {
+    "archivo": "datos_estudiantes_sinteticos.csv",
+    "filas": 60,
+    "bytes": 2344,
+    "sha256": "1a1c8b0149017968f9f6e4b81f207954e11bce82a3588d97ca6b83248148685b"
+  },
+  {
+    "archivo": "datos_limpieza_intencional.csv",
+    "filas": 30,
+    "bytes": 907,
+    "sha256": "3f0e2af1f5268e836f34a2f2417b44aba22cf7b2fda6f754aa0d4d4a22ed1fc3"
+  },
+  {
+    "archivo": "datos_pre_post_sinteticos.csv",
+    "filas": 48,
+    "bytes": 1394,
+    "sha256": "74b2c9fd5f673eeb1fdbd876f77af21983105d46662c5feae2ec5c41b16ab4a0"
+  }
+]
